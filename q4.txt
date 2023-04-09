@@ -1,0 +1,15 @@
+tempo = distância / velocidade
+
+Onde a distância é igual a metade do percurso total, já que os veículos se encontram no meio da rodovia. Assim, temos:
+
+distância = 100 km / 2 = 50 km
+
+Para o carro, temos:
+
+tempo_carro = 50 km / 110 km/h = 0,45 h = 27 minutos
+
+Para o caminhão, temos que levar em conta os pedágios. Sabemos que ele leva 5 minutos a mais em cada um, então o tempo total gasto nos pedágios será de 10 minutos. Assim, temos:
+
+tempo_caminhão = (50 km / 80 km/h) + 10 minutos = 0,75 h = 45 minutos
+
+Portanto, o carro estará mais próximo da cidade de Ribeirão Preto no momento do cruzamento, já que levou menos tempo para chegar até lá.

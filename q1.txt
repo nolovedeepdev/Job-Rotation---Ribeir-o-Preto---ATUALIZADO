@@ -1,0 +1,5 @@
+O código acima utiliza um laço de repetição enquanto (while) para somar os números de 1 a 13. 
+Na primeira iteração, K recebe o valor 1, então SOMA recebe o valor 1. 
+Na segunda iteração, K recebe o valor 2, então SOMA recebe o valor 3 (1+2). 
+Esse processo é repetido até que K atinja o valor 13 e a soma seja finalizada. 
+Ao final, a variável SOMA conterá a soma de todos os números de 1 a 13, que é 91.
